@@ -15,9 +15,13 @@
 
 - Не боюсь изучать новое
 
+- На данный момент особое внимание уделяю погружению в Java Script и изучению фреймворка React
+
 - Подхожу к любой задаче ответственно, делаю - качественно, уделяю внимание деталям
 
 ## 📈 GitHub Stats
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Potapov11)](https://github.com/Potapov11/github-profile-trophy)
 
 ![Potapov11 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Potapov11&count_private=true&hide=contribs&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Potapov11&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
