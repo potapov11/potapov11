@@ -1,21 +1,11 @@
 
 
- Привет! 💁‍♂️  Меня зовут Потапов Сергей ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Potapov11) 
-
-
-<div id="header" align="center">
-  <img src="https://github.com/salemvi/salemvi/assets/126908341/4bc79563-1191-4eb2-84ef-a0931faccc7b"/>
-</div>
+ Привет! 💁‍♂️  Меня зовут Потапов Сергей 
 
 <div id="badges" align="center" >
-   <a href="https://t.me/salemvi">
+   <a href="https://t.me/Serzh11Potapov>
     <img src="https://img.shields.io/badge/Telegram-1A1B26?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
    </a>
-
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-1A1B26?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
 </div>
 
 
@@ -41,14 +31,6 @@
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://git.io/streak-stats"><img width="80%" src="https://camo.githubusercontent.com/37c2da38ffabf2b8abae75534a89ec997cafb2d01956314be1e543307dc50b90/687474703a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d73616c656d7669267468656d653d746f6b796f6e69676874" alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=salemvi&amp;theme=tokyonight" style="max-width: 100%;">
 </p>
 
----
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=salemvi&label=Profile%20views&color=042437&style=flat-square" alt="salemvi" /> </p>
-
-
-**Стек:** HTML, CSS, JAVA SCRIPT, REACT, FIGMA
-
-[![Skills](https://skillicons.dev/icons?i=react,js,html,css,git,figma)](https://skillicons.dev)
 
 
 Коротко обо мне:
