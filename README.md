@@ -11,7 +11,6 @@
 
 ---
 
-
 <div  align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -35,6 +34,8 @@
 - На данный момент особое внимание уделяю погружению в Java Script и изучению фреймворка React
 
 - Подхожу к любой задаче ответственно, делаю - качественно, уделяю внимание деталям
+
+- ![Codewars](https://github.r2v.ch/codewars?user=serezha1122)
 
 ## 📈 GitHub Stats
 
