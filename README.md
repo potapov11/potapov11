@@ -8,9 +8,9 @@
    </a>
 </div>
 
-<div id="badges" align="center" >
-   <a href="https://t.me/Serzh11Potapov>
-    <img src="https://img.shields.io/badge/Telegram-1A1B26?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+<div>
+   <a href="https://murino.hh.ru/resume/b1ba14b6ff0cfd4fa40039ed1f433870373357">
+    Здесь мое резюме
    </a>
 </div>
 
