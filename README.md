@@ -8,11 +8,6 @@
    </a>
 </div>
 
-<div>
-   <a href="https://murino.hh.ru/resume/b1ba14b6ff0cfd4fa40039ed1f433870373357">
-    Здесь мое резюме
-   </a>
-</div>
 
 
 ---
