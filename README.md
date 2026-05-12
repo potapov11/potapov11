@@ -77,6 +77,7 @@
 ## 📫 Как со мной связаться
 
 - **Telegram:** [@Serzh11Potapov](https://t.me/Serzh11Potapov) — самый быстрый способ
+- **Email:** [s.potapov11@yandex.ru](mailto:s.potapov11@yandex.ru) — для писем
 - **GitHub:** [github.com/Potapov11](https://github.com/Potapov11) — портфолио и код
 
 ---
